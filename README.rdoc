@@ -1,28 +1,10 @@
-== README
+Joseph Sutton Project 1.
+Done Monday February 24th 2014.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I decided to remake it for this class to prove to myself 
+that I can still do the project. I used the same css as the 
+original so it looks idential to my original project
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+
