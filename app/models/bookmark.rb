@@ -5,7 +5,7 @@ class Bookmark < ActiveRecord::Base
 end
 
 class Bookmark < ActiveRecord::Base
-    validates :url, length: { minimum: 1 }
+    validates :url, length: { minimum: 2 }
     validates :url, :format => URI::regexp(%w(http https))
     
 end

@@ -1,5 +1,5 @@
 class Bookmark < ActiveRecord::Base
-    validates :name, length: { minimum: 1 }
+    validates :name, length: { minimum: 2 }
     
     
 end
